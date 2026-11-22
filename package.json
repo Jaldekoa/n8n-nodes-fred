@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-fred",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "n8n community node for FRED® (Federal Reserve Economic Data) API v2",
 	"license": "MIT",
 	"homepage": "https://github.com/Jaldekoa/n8n-nodes-fred",
