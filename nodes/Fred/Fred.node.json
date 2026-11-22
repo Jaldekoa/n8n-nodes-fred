@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-fred.fred",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Finance & Accounting"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://fred.stlouisfed.org/docs/api/fred/v2/api_key.html"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://fred.stlouisfed.org/docs/api/fred/v2/index.html"
+			}
+		]
+	}
+}
