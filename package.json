@@ -3,7 +3,7 @@
 	"version": "0.0.3",
 	"description": "n8n community node for FRED® (Federal Reserve Economic Data) API v2",
 	"license": "MIT",
-	"homepage": "https://fred.stlouisfed.org/docs/api/fred/v2/index.html",
+	"homepage": "https://github.com/Jaldekoa/n8n-nodes-fred",
 	"keywords": [
 		"n8n-community-node-package",
 		"n8n",
@@ -15,6 +15,10 @@
 	"author": {
 		"name": "Jon Aldekoa",
 		"email": "jaldekoa@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jaldekoa/n8n-nodes-fred.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
