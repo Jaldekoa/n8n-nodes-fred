@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-fred",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "n8n community node for FRED® (Federal Reserve Economic Data) API v2",
 	"license": "MIT",
 	"homepage": "https://fred.stlouisfed.org/docs/api/fred/v2/index.html",
@@ -48,7 +48,7 @@
 	"peerDependencies": {
 		"n8n-workflow": "*"
 	},
-		"publishConfig": {
+	"publishConfig": {
 		"access": "public"
 	}
 }
